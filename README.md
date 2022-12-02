@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="center">
-	<a href="#%F0%9F%92%A1-about">About</a>
+	<a href="#-about">About</a>
 	<span> · </span>
 	<a href="#%EF%B8%8F-usage">Usage</a>
 	<span> · </span>
